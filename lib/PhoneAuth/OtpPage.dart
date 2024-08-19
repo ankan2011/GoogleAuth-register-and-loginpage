@@ -84,11 +84,10 @@ class _OtpPageState extends State<OtpPage> {
                           TextStyle(fontSize: 24, color: Colors.black),
                         )),
                   ),
-                  Text("")
                   // Container(width: double.infinity,
                   //   child: ElevatedButton(onPressed: () {
                   //     signIn();
-
+                  //     }, child: Text("Verify & Proceed",)),
                   // )
                 ],
               ),
